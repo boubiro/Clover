@@ -92,6 +92,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="1443420119_Ak_Leaf.ico" />
+    <Content Include="Logs\Credits.txt" />
+    <Content Include="Logs\Logs.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

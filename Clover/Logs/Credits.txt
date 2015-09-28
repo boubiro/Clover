@@ -1,0 +1,5 @@
+﻿[+] Thanks and appreciations goes to -
+	[-] GitHub - for helping me make this project Open-Source.
+	[-] IconFinder - for the icon that I will be using for this project.
+	[-] Visual Studio & NuGET - for making my life easier.
+	[-] 
